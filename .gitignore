@@ -1,0 +1,14 @@
+*.apk
+*.ap_
+
+*.dex
+
+*.class
+
+bin/
+gen/
+
+*.iml
+*.ipr
+*.iws
+.idea/
